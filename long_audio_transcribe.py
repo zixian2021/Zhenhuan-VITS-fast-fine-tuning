@@ -5,7 +5,7 @@ import torchaudio
 import librosa
 import torch
 import argparse
-parent_dir = "./denoised_audio/"
+parent_dir = "./selected_character_wav/"
 filelist = list(os.walk(parent_dir))[0][2]
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
