@@ -3,4 +3,4 @@
 # 相对于原始仓库，该仓库支持直接将多人对白的视频输入（如电视剧）输入，复刻电视剧中任意角色的声音
 # Zhenhuan-VITS Fast Fine-tuning
 一键运行colab脚本:
-Zhenhuan_VITS_fast_finetuning.ipynb
+[Zhenhuan_VITS_fast_finetuning.ipynb](https://colab.research.google.com/drive/1bY9S-_Mpgx6AUuOCpmVYsjrm0bX3Q-AL?usp=sharing)
